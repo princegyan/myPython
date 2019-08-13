@@ -1,4 +1,4 @@
-#import numpy as np
+import numpy as np
 input = np.linspace (-10, 10, 100)
 
 def sigmoid(x):
